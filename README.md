@@ -2,6 +2,20 @@
 
 ## Introduction
 Hey there! 👋 I'm Yadavendra Kumar Meena, and I'm delighted to welcome you to my GitHub profile! 
+<p align="left"> 
+  <img
+        src="https://komarev.com/ghpvc/?username=yadvendrameena033&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Shubhanshu Sharma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=yadvendrameena033" alt="Yadvendra Meena" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+            src="https://img.shields.io/twitter/follow/Yadvendra Meena?logo=twitter&style=for-the-badge"
+            alt="Shubhanshu Sharma" /></a> </p>
+
+---
+
 
 ## Background
 I have a deep passion for management and enjoy exploring various aspects of it. Currently, I am actively learning web development to expand my skill set and explore the exciting world of creating web applications.
@@ -17,8 +31,8 @@ I currently hold the position of Placement Coordinator at Rajasthan Technical Un
 ## Get in Touch
 I'm always eager to connect with like-minded individuals, so please feel free to reach out to me! You can find me on the following platforms:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/your-linkedin-profile/)
+- GitHub: [yadvendrameena033](https://github.com/yadvendrameena033)
+- LinkedIn: [Yadendra Kumar Mee](https://www.linkedin.com/in/your-linkedin-profile/)
 - Email: your.email@example.com
 
 I look forward to connecting with you and collaborating on exciting projects. Let's make a positive impact together!
