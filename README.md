@@ -5,9 +5,9 @@ Hey there! 👋 I'm Yadavendra Kumar Meena, and I'm delighted to welcome you to 
         src="https://komarev.com/ghpvc/?username=yadvendrameena033&label=Profile%20views&color=0e75b6&style=flat"
         alt="Yadvendra Kumar Meena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=yadvendrameena033" alt="Yadvendra Meena" /></a> </p>
-
+ -->
 
 ---
 
